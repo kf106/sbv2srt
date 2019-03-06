@@ -5,6 +5,6 @@ YouTube captions can be saved as .sbv files, but LinkedIn requires .srt files. U
 
 ## Usage
 
-    ./sbv2srt filename.sbv
+    ./sbv2srt.sh filename.sbv
     
 Output is written to `filename.srt`
